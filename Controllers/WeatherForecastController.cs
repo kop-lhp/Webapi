@@ -21,7 +21,7 @@ namespace Webapi.Controllers
         [HttpGet]
         public  string Get()
         {
-            return "1";
+            return "2";
         }
     }
 }
